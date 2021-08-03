@@ -3,8 +3,8 @@
         
         {
             "name" : "harmit",
-            "mobileNumber" : 8085748671,
-            "zipCode" : 451332,
+            "mobileNumber" : "8085748671",
+            "zipCode" : "451332",
             "address_1" : "main road, zirniya",
             "address_2" : "main road, zirniya",
             "landmark" : "",
@@ -15,8 +15,8 @@
         },
         {
             "name" : "harmit",
-            "mobileNumber" : 6266110511,
-            "zipCode" : 451332,
+            "mobileNumber" : "6266110511",
+            "zipCode" : "451332",
             "address_1" : "Infront of society, main road, zirniya",
             "address_2" : "Shop : Tirath Singh Labh Singh Bhatia",
             "landmark" : "",
@@ -26,8 +26,8 @@
         },
         {
             "name" : "harmit",
-            "mobileNumber" : 8989432831,
-            "zipCode" : 452001,
+            "mobileNumber" : "8989432831",
+            "zipCode" : "452001",
             "address_1" : "Vishnupuri, indore",
             "address_2" : "main road, zirniya",
             "landmark" : "",
