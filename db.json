@@ -5,31 +5,35 @@
             "name" : "harmit",
             "mobileNumber" : 8085748671,
             "zipCode" : 451332,
-            "Address_1" : "main road, zirniya",
-            "Address_2" : "main road, zirniya",
+            "address_1" : "main road, zirniya",
+            "address_2" : "main road, zirniya",
             "landmark" : "",
             "townCity" :"Zirniya",
-            "state" : "Madhya Pradesh" 
+            "state" : "Madhya Pradesh",
+            "isDefault" : true
+
         },
         {
             "name" : "harmit",
             "mobileNumber" : 6266110511,
             "zipCode" : 451332,
-            "Address_1" : "Infront of society, main road, zirniya",
-            "Address_2" : "Shop : Tirath Singh Labh Singh Bhatia",
+            "address_1" : "Infront of society, main road, zirniya",
+            "address_2" : "Shop : Tirath Singh Labh Singh Bhatia",
             "landmark" : "",
             "townCity" :"Zirniya",
-            "state" : "Madhya Pradesh" 
+            "state" : "Madhya Pradesh",
+            "isDefault" : false 
         },
         {
             "name" : "harmit",
             "mobileNumber" : 8989432831,
             "zipCode" : 452001,
-            "Address_1" : "Vishnupuri, indore",
-            "Address_2" : "main road, zirniya",
+            "address_1" : "Vishnupuri, indore",
+            "address_2" : "main road, zirniya",
             "landmark" : "",
             "townCity" :"Indore",
-            "state" : "Madhya Pradesh" 
+            "state" : "Madhya Pradesh",
+            "isDefault" : false
         }
     ]
 
